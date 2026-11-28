@@ -1,0 +1,8 @@
+version: 2
+    
+  sources:
+    - name: raw_mongo
+      database: bubbly-realm-514710-p0
+      schema: raw_mongo
+      tables:
+        - name: raw_pracownicy
